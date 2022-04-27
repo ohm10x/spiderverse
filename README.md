@@ -1,9 +1,8 @@
 # spiderverse
 
-
 MISION 2
-2. Diseño de Software con TDD
 
+2. Diseño de Software con TDD
 
 BREVE DESCRIPCION: aprendido a realizar TDD
 
